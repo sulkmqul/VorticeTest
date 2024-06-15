@@ -10,7 +10,7 @@ VisualStudio 2019<br>
 
 # Author
 sulkmqul<br>
-http://blog.livedoor.jp/serialpath/
+
 
 
 # License
